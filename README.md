@@ -5,6 +5,17 @@
   🎓 Data Science Master's Student • 💻 Web/App Developer at HUK-COBURG • 🔬 AI + Backend Enthusiast
 </p>
 
+## 👋 About Me
+
+Hi, I'm Lukas, a 24-year-old Data Science Master's student and a web/app developer at HUK-COBURG. I'm passionate about backend development, building web applications, and exploring innovative uses of AI.  
+I enjoy working at the intersection of data, software engineering, and user-focused design — always pushing to turn ideas into scalable, impactful solutions.
+
+---
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/lukas-scheler-5b0a06268/)
+
 ---
 
 ## 📊 GitHub Dashboard
@@ -53,14 +64,3 @@
   My first C# project — a simple but practical tool to calculate and round work hours. Useful for daily time tracking and productivity.
 
 ---
-
-## 👋 About Me
-
-Hi, I'm Lukas, a 24-year-old Data Science Master's student and a web/app developer at HUK-COBURG. I'm passionate about backend development, building web applications, and exploring innovative uses of AI.  
-I enjoy working at the intersection of data, software engineering, and user-focused design — always pushing to turn ideas into scalable, impactful solutions.
-
----
-
-## 📫 Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/lukas-scheler-5b0a06268/)
