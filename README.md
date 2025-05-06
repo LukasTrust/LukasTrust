@@ -47,7 +47,7 @@ I enjoy working at the intersection of data, software engineering, and user-focu
 ### 🚧 Currently Working On
 
 - **[FinancialManager](https://github.com/LukasTrust/FinancialManager)**  
-  An improved and more robust version of the original Rust-based financial manager, now written in Java. It features a more user-friendly design, enhanced functionality, and better scalability. The project reflects your growth in software design, object-oriented programming, and user-centric development.
+  An improved and more robust version of the original Rust-based financial manager, now written in Java. It features a more user-friendly design, enhanced functionality, and better scalability.
 
 ### ✅ Completed Projects
 
