@@ -8,7 +8,7 @@
 ## 👋 About Me
 
 Hi, I'm Lukas, a 24-year-old Data Science Master's student and a web/app developer at HUK-COBURG. I'm passionate about backend development, building web applications, and exploring innovative uses of AI.  
-I enjoy working at the intersection of data, software engineering, and user-focused design — always pushing to turn ideas into scalable, impactful solutions.
+I enjoy working at the intersection of data, software engineering, and user-focused design always pushing to turn ideas into scalable, impactful solutions.
 
 ---
 
